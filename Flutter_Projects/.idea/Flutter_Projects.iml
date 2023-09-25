@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Car_App/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Car_App/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Car_App/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Login_Screen_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Login_Screen_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Login_Screen_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/basicapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/basicapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/basicapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day1practice/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day1practice/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day1practice/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dice_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dice_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dice_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/i_am_rich/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/i_am_rich/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/i_am_rich/build" />
+      <excludeFolder url="file://$MODULE_DIR$/images_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/images_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/images_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

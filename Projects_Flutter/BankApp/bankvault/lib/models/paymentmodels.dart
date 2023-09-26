@@ -11,7 +11,7 @@ class PaymentModels {
     required this.bgcolor,
   });
 
-  List<PaymentModels> getCategory() {
+  static List<PaymentModels> getCategories() {
     List<PaymentModels> categories = [];
 
     categories.add(
